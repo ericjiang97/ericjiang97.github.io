@@ -2481,7 +2481,7 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #009CF7;
 		}
 
 		#header a {
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #009CF7;
 				}
 
 		#header > nav {
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #3A90C2;
 					display: block;
 					padding: 0;
 				}
