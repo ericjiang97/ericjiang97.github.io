@@ -2600,13 +2600,13 @@
 /* One */
 
 	#intro:before {
-		background-image: url("../../images/banner.jpg");
-		background-position: top right;
+		background: rgba(255, 255, 255, 0.1) url("../../images/unihackmini.jpg");
+		background-position: 55% 45%;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 20em;
 		width: 100%;
 	}
 
