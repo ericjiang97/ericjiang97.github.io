@@ -2600,7 +2600,7 @@
 /* One */
 
 	#intro:before {
-		background: rgba(255, 255, 255, 0.1) url("../../images/unihackmini.jpg");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)),url("../../images/unihackmini.jpg");
 		background-position: 55% 45%;
 		background-repeat: no-repeat;
 		background-size: cover;
