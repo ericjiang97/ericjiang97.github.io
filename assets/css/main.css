@@ -1,3 +1,5 @@
+
+
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
@@ -6,6 +8,9 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.icon-custom{
+	color: #09B89A;
+}
 
 /* Reset */
 
@@ -2600,13 +2605,13 @@
 /* One */
 
 	#intro:before {
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)),url("../../images/unihackmini.jpg");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.6), rgba(46, 49, 65, 0.6)),url("../../images/unihackmini.jpg");
 		background-position: 55% 45%;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 20em;
+		height: 23em;
 		width: 100%;
 	}
 
@@ -2629,7 +2634,7 @@
 			#footer .copyright li {
 				border-left: solid 1px #d4d4d4;
 				display: inline-block;
-				font-size: 0.8em;
+				font-size: 0.7em;
 				margin-left: 1em;
 				padding-left: 1em;
 			}
