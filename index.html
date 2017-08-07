@@ -15,10 +15,21 @@
 		<link rel="stylesheet" href="assets/css/custom.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!-- Place this tag in your head or just before your close body tag. -->
+		<script src="assets/js/anime.min.js"></script>
 		<script async defer src="https://buttons.github.io/buttons.js"></script>
 	</head>
 	<body>
-
+		<script>
+			window.onload = function() {
+				var target = document.querySelector('#opening');
+				console.log(target)
+				anime({
+					targets: target,
+					translateX: 250,
+					direction: 'alternate'
+				});
+			}
+		</script>
 		<!-- Header -->
 			<section id="header">
 
@@ -59,8 +70,8 @@
 						<!-- One -->
 							<section id="intro">
 								<div class="container">
-									<header class="major">
-										<h2>Hi there!</h2>
+									<header class="major" >
+										<h2 id="opening">Hi there!</h2>
 										<p>I'm Eric and I'm currently a <br />second year Bachelor of Information Technology <br /> Student at Monash University</p>
 									</header>
 									<p>
@@ -148,6 +159,17 @@
 											</div>
 											<div class="4u">
 												<span class="image fit">
+													<a href="https://myfuture-prod.appspot.com" class="image"><img src="images/futureyou.png" alt="" /></a>
+												</span>
+												<div class="inner">
+													<h4>FutureYou</h4>
+													<img src="https://img.shields.io/badge/license-Commercial-brightgreen.svg" />
+													<h5>April 2017 - Present</h5>
+													<p>A Course Advice Tool which maps Interests, Careers to Monash Courses.</p>
+												</div>
+											</div>
+											<div class="4u">
+												<span class="image fit">
 													<a href="https://geckodm.github.io" class="image"><img src="images/gecko420.png" alt="" /></a>
 												</span>
 												<div class="inner">
@@ -159,6 +181,8 @@
 													<p>A Chrome Extension used to manage downloading lectures from Echo360.</p>
 												</div>
 											</div>
+										</div>
+										<div class="row 50% uniform">
 											<div class="4u">
 												<span class="image fit">
 													<a href="https://mariejs.xyz" class="image"><img src="images/mariejs.PNG" alt="" /></a>
@@ -172,8 +196,6 @@
 													<p>A simple yet beautiful Computer Assembly Simulator. Used within Monash University's FIT1047 unit.</p>
 												</div>
 											</div>
-										</div>
-										<div class="row 50% uniform">
 											<div class="4u">
 												<div class="inner">
 													<h4><a href="https://github.com/lorderikir/micro-screenshot">micro-screenshot (Microservice)</a></h4>
