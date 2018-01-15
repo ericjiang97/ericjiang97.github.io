@@ -2605,7 +2605,7 @@
 /* One */
 
 	#intro:before {
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.6), rgba(46, 49, 65, 0.6)),url("../../images/govhack.jpg");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.6), rgba(46, 49, 65, 0.6)),url("../../images/unihackmini.jpg");
 		background-position: 55% 45%;
 		background-repeat: no-repeat;
 		background-size: cover;
