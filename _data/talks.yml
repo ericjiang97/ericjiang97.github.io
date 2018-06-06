@@ -1,0 +1,54 @@
+- title: 'Student Innovation and Cloud Practices at Monash Uni'
+  date: 'April 30, 2018'
+  presenters: '@lorderikir, @ish-joshi, Glen Pringle'
+  location: 'Monash University, Clayton '
+  info: 'Part of the Faculty of Information Technology IBL Seminar Series'
+  description: 'This talk is about how we do Student Innovation as well as our Cloud Practices using Google Cloud Platform and demonstrates how it ties into our Service Delivery catering over 70,000 users at Monash University.'
+  img: https://i.imgur.com/d3jF976.jpg
+  url: https://speakerdeck.com/lorderikir/student-innovation-and-cloud-practices-at-monash
+
+- title: 'Gitting Started at Hackathons'
+  date: 'April 18, 2018'
+  presenters: '@lorderikir'
+  location: 'Monash University, Melbourne CBD'
+  info: "This talk is part of a two part talk designed to introduce how to tackle building technical solutions. And was given at Monash University's 2018 Hackamon."
+  description: 'This tech talk is about the basics of using Git as well as the right way to approach development with Git workflows. This talk is designed for beginners of version control and Git.'
+  img: https://i.imgur.com/tbqHkom.png
+  url: https://speakerdeck.com/lorderikir/getting-started-at-hackathons-track-1-gitting-started
+
+- title: 'Building MVPs using ReactJS and Firebase'
+  date: 'April 18, 2018'
+  presenters: '@lorderikir'
+  location: 'Monash University, Melbourne CBD'
+  info: "This talk is part of a two part talk designed to introduce how to tackle building technical solutions. And was given at Monash University's 2018 Hackamon."
+  description: 'This is about how to quickly build a minimal solution as quickly as possible. It includes tips and tricks such as using ReactJS with various Firebase services.'
+  img: 'https://i.imgur.com/CRY1f8C.png'
+  url: https://speakerdeck.com/lorderikir/getting-started-at-hackathons-track-2-building-mvps-using-reactjs-and-firebase
+
+- title: 'Automating Deployments with CI/CD using BitBucket Pipelines'
+  date: 'April 6, 2018'
+  presenters: '@lorderikir'
+  location: 'Monash University'
+  info: "This talk was given to staff about how MonPlan Automates Deployments "
+  description: 'This talk was about automating deployments to Google App Engine using Pipelines and improving workflow'
+  img: 'https://i.imgur.com/KYd2YBN.png'
+  url: https://speakerdeck.com/lorderikir/automating-deployments-and-workflows-with-bitbucket-pipelines
+
+
+- title: 'Building and Maintaining  Applications on Google Cloud Platform'
+  date: 'December 2017'
+  presenters: '@lorderikir'
+  location: 'Localz HQ'
+  # info: "This talk was given to staff about how MonPlan Automates Deployments "
+  description: 'This talk was about automating deployments to Google App Engine using Pipelines and improving workflow'
+  img: 'https://i.imgur.com/sTBskwg.jpg'
+  url: https://speakerdeck.com/lorderikir/building-and-maintaining-scalable-applications-on-google-cloud-platform
+
+- title: 'Building Scalable Applications on Google Cloud Platform'
+  date: 'October 2017'
+  presenters: '@lorderikir'
+  location: 'Monash University'
+  info: "This talk was part of [Wired Monash](http://wired.org.au) Tech Talk Series"
+  description: 'This talk was about automating deployments to Google App Engine using Pipelines and improving workflow'
+  img: 'https://i.imgur.com/ew9IJ8Z.jpg'
+  url: https://speakerdeck.com/lorderikir/building-and-maintaining-scalable-applications-on-google-cloud-platform

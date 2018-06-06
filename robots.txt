@@ -1,3 +1,0 @@
-# Robots Rule! - Sometimes... #
-User-agent: *
-Allow: /
