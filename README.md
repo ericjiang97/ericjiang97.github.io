@@ -1,5 +1,5 @@
-# beta
-The new v2 Website rebuilt in Jekyll
+# lorderikir.me
+The new v2 Website built in Jekyll
 
 ## Develop
 
