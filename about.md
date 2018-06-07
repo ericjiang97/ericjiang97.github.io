@@ -15,13 +15,13 @@ permalink: /about/
 #### Founder of [monPlan](https://monplan.apps.monash.edu)  <br/> Co-Founder of [MARIE.js](https://marie-js.github.io/MARIE.js/) , [geckoDM](https://geckodm.github.io), FutureYou@Monash 
 
 
-You can download my resume [here](/assets/downloads/EricJiang-Resume18.pdf")
+You can download my resume [here](/assets/downloads/EricJiang-Resume18.pdf)
 
-I really love development in general as well and am very passionate about DevOps, and the security, service delivery and maintainability of any project. 
+I love building things 🏗️, whether it's Software, Mobile Apps or web apps - I would always try out new and awesome tech. I've built things in Java (Spring Boot), ReactJS (with Redux), React Native and much more...
+
+Another reason why I love coding and building apps, is that I want to change the world. Such as making education more accessible and more enjoyable for everyone.
 
 I am currently looking to Major in Computer Networks and Security as well as Minor in computer science.
 
-One of the few reasons I love coding is that I want to change the world. Especially making education among everyone easier to access, but also make it more enjoyable and fun. 
-
-I have not only particpated in Hackathons but also helped mentor during UniHack Mini 2017 and Hackamon 2018. 
+I have not only particpated in Hackathons but also mentored during some hacks such as UniHack Mini 2017 and Hackamon 2018. I also do various tech talks, you can read more about my talks [here](/talks).
 This is why, I have worked on many projects which have been used to improve student-community life in general. Such as CHS Newsletter Site, [MARIE.js](https://marie-js.github.io/MARIE.js/) , [geckoDM](https://geckodm.github.io) and [monPlan](https://monplan.apps.monash.edu) 
