@@ -40,7 +40,7 @@
   presenters: '@lorderikir'
   location: 'Localz HQ'
   # info: "This talk was given to staff about how MonPlan Automates Deployments "
-  description: 'This talk was about automating deployments to Google App Engine using Pipelines and improving workflow'
+  description: 'This was a presentation presented during my Internship at Localz, this talk is about: 1) Building Applications 2) Monitoring with GCP tools'
   img: 'https://i.imgur.com/sTBskwg.jpg'
   url: https://speakerdeck.com/lorderikir/building-and-maintaining-scalable-applications-on-google-cloud-platform
 
@@ -49,6 +49,6 @@
   presenters: '@lorderikir'
   location: 'Monash University'
   info: "This talk was part of [Wired Monash](http://wired.org.au) Tech Talk Series"
-  description: 'This talk was about automating deployments to Google App Engine using Pipelines and improving workflow'
+  description: 'This was a presentation about: 1) Building Applications 2) Monitoring with GCP tools'
   img: 'https://i.imgur.com/ew9IJ8Z.jpg'
   url: https://speakerdeck.com/lorderikir/building-and-maintaining-scalable-applications-on-google-cloud-platform
