@@ -21,13 +21,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   and the security, service delivery, cloud computing and maintainability of any project. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lorderikir.me" # the base hostname & protocol for your site, e.g. http://example.com
-
+google_analytics: UA-120714098-1
 
 twitter_username: lorderikir
 github_username:  lorderikir
 linkedin_username: ericjiang97
 facebook_username: lorderikir
 instagram_username: lorderikir
+youtube_username: lorderikir
+googleplus_username: +ericjiang97
 
 # Build settings
 markdown: kramdown
