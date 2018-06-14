@@ -12,6 +12,9 @@ permalink: /
     <h1 style="font-size: 30px; font-weight: 500">👋 Hi I'm Eric</h1>
     <h2 style="font-size: 24px; font-weight: 300">
         <a href="https://monplan.apps.monash.edu" target="blank">MonPlan</a> Lead Developer and Cloud Solutions Engineer <br /> eSolutions, <a href="https://monash.edu">Monash University</a></h2>
+    <h3 style="font-size: 20px; font-weight: 300">
+        Currently helping shape Student Innovation at eSolutions, Monash University
+    </h3>
     <div style="font-size: 18px">
         💼 <a href="/projects">My Projects</a> - 
         🎤 <a href="/talks">Tech Talks</a> - 
