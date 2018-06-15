@@ -13,7 +13,7 @@ I build and work on a lot of projects, here's some of them:
         <center>
         <h3>monPlan</h3> 
         <img src="https://img.shields.io/badge/license-Commercial-brightgreen.svg?longCache=true&style=for-the-badge"  style="height: 20px; margin: 40"/>
-        <img src="/assets/images/monplan.PNG" style="height: 200px; margin: 20" />
+        <img src="/assets/images/monplan.png" style="height: 200px; margin: 20" />
         <h5>Oct 2016 - Present</h5>
         <p>The Monash University Course Planning Tool For Students, By Students.</p>
         </center>
@@ -35,7 +35,7 @@ I build and work on a lot of projects, here's some of them:
         <center>
         <h3>MARIE.js</h3> 
         <img src="https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=for-the-badge"  style="height: 20px; margin: 40"/>
-        <img src="/assets/images/mariejs.PNG" style="height: 200px; margin: 20" />
+        <img src="/assets/images/mariejs.png" style="height: 200px; margin: 20" />
         <h5>Mar 2016 - Sep 2016</h5>
         <p>The Monash University Course Planning Tool For Students, By Students.</p>
         </center>
