@@ -27,6 +27,15 @@ I build and work on a lot of projects, here's some of them:
         <p>A Chrome Extension used to manage downloading lectures from Echo360.</p>
         </center>
     </div>
+    <div style="max-width: 300px; margin: 10px">
+        <center>
+        <h3>nrc-generator</h3> 
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=for-the-badge" style="height: 20px; margin: 20"/>
+        <img src="https://github.com/lorderikir/nrc-generator/raw/master/captures/v0.1.2-hotfix1.gif" style="width: 75%; margin: 20" />
+        <h5>Jun 2018 - Present</h5>
+        <p>A CLI Tool used to generate a new React Component</p>
+        </center>
+    </div>
 </div>
 
 ## Maintaining/LTS
