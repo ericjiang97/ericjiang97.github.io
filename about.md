@@ -25,14 +25,3 @@ I am currently looking to Major in Computer Networks and Security as well as Min
 
 I have not only particpated in Hackathons but also mentored during some hacks such as UniHack Mini 2017 and Hackamon 2018. I also do various tech talks, you can read more about my talks [here](/talks).
 This is why, I have worked on many projects which have been used to improve student-community life in general. Such as CHS Newsletter Site, [MARIE.js](https://marie-js.github.io/MARIE.js/) , [geckoDM](https://geckodm.github.io) and [monPlan](https://monplan.apps.monash.edu) 
-
-## My Journey
-### 2008: The Beginning
-I started off my programming journey back when I was 11 with [Visual Basic .Net](https://docs.microsoft.com/en-us/dotnet/visual-basic/) it was a neat little project. I also had done some bash scripting with cmd (remember back in those days) too.
-
-
-### 2010: Web Development and C#
-I had my first experience with Web Development and the beautiful Unity back in 2010.
-
-### 2013: Joined GitHub!
-![github](https://i.imgur.com/EzNo9CK.png)
