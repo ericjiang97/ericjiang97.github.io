@@ -7,6 +7,7 @@ permalink: /photos/
 I also ❤️ taking photos 📸. Here's some photos I've taken:
 
 ## Test Photos
+
 <table>
 <tr>
     <td>📍</td>
@@ -23,14 +24,14 @@ I also ❤️ taking photos 📸. Here's some photos I've taken:
 ## Botanical Gardens
 
 <table>
-<tr>
-    <td>📍</td>
-    <td><i>Royal Botanical Gardens, Melbourne, Victoria, Australia<i></td>
-</tr>
-<tr>
-    <td>📆</td>
-    <td>9th September 2018</td>
-</tr>
+    <tr>
+        <td>📍</td>
+        <td><i>Royal Botanical Gardens, Melbourne, Victoria, Australia<i></td>
+    </tr>
+    <tr>
+        <td>📆</td>
+        <td>9th September 2018</td>
+    </tr>
 </table>
  
  
